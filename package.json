@@ -1,0 +1,14 @@
+{
+  "name": "aws-copilot",
+  "version": "1.0.0",
+  "description": "nodejs app using aws",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "jemessonlima",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
