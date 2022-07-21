@@ -1,2 +1,2 @@
-application: sg-fargate-ecs
+application: aws-copilot
 path: ""
